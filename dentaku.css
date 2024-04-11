@@ -1,0 +1,25 @@
+  .wrapper{
+    max-width: 350px;
+  }
+  
+  input{
+    box-sizing: border-box;
+    width: 72.5%;
+    height: 3.5rem;
+    font-size: 1.6rem;
+    text-align: right;
+    padding: 0 0.75rem;
+    color: #fff;
+    background-color: #000000;
+  }
+  
+  .button-large {
+    width: 35.5%;
+  }
+  
+  button {
+    font-size: 18px;
+    width: 17%;
+    height: 3.5rem;
+    vertical-align: middle;
+  }
